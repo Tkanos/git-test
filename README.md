@@ -3,4 +3,4 @@ git test
 
 my changes
 
-![](Octocat.png)
+![](Octocat.png =250x250)
